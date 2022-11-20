@@ -1,8 +1,8 @@
 # IBM-Project-37215-1660301717
 
-#Team ID : PNT2022TMID12738
+# Team ID : PNT2022TMID12738
 
-#Project Name : IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
+# Project Name : IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
 
 Team Lead - Aravind T (718019L104)
 
